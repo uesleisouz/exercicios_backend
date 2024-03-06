@@ -1,0 +1,15 @@
+{
+  "name": "node3array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "principalArray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ueslei Carvalho",
+  "license": "ISC",
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
